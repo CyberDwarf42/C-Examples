@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  device.cpp
+  Generating Code...
+C:\Users\genes\source\repos\SDEV-340-45_aarongockley_FinalProject\SDEV-340-45_aarongockley_FinalProject\device.cpp(89): warning C4715: 'Device::check_time': not all control paths return a value
+  SDEV-340-45_aarongockley_FinalProject.vcxproj -> C:\Users\genes\source\repos\SDEV-340-45_aarongockley_FinalProject\x64\Debug\SDEV-340-45_aarongockley_FinalProject.exe

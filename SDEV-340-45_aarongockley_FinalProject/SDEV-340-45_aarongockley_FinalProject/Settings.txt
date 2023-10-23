@@ -1,0 +1,9 @@
+Security1: 1 House 3
+Sunday 1000 2000, Monday 1000 2000, Tuesday 1000 2000, Wednesday 1000 2000, Thursday 1000 2000, Friday 1000 2000, Saturday 1000 2000, 
+Lights1: 1 Living Room
+Sunday 1000 2000, Monday 1000 2000, Tuesday 1000 2000, Wednesday 1000 2000, Thursday 1000 2000, Friday 1000 2000, Saturday 1000 2000, 
+Tron: 1 Living Room 
+Sunday 1000 2000, Monday 1000 2000, Tuesday 1000 2000, Wednesday 1000 2000, Thursday 1000 2000, Friday 1000 2000, Saturday 1000 2000, 
+TV1: 1 Living Room 49.2
+Sunday 1000 2000, Monday 1000 2000, Tuesday 1000 2000, Wednesday 1000 2000, Thursday 1000 2000, Friday 1000 2000, Saturday 1000 2000, 
+Thermo1: 1 Living Room 70 68.5
